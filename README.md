@@ -3,5 +3,6 @@
 
 
 ### SQL 언어
-DBMS - sqlite3
-IDE - DB Browser
+DBMS - sqlite3 <br />
+IDE - DB Browser <br />
+DDL, DML 실습
