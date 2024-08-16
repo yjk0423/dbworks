@@ -23,7 +23,7 @@ INSERT INTO employee (emp_id, name, salary) VALUES("e103","박대리",4000000);
 --INSERT INTO employee (emp_id, name) VALUES("e104","고신입");
 
 
---UPDATE employee SET salary = 3000000 WHERE emp_id = 'e101';
+UPDATE employee SET name = '이사원' WHERE emp_id = 'e102';
 COMMIT;
 
 SELECT * FROM employee;
